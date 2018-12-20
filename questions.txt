@@ -1,0 +1,30 @@
+1. why use Weighted Least Squares Filtter?
+"Disparity map filter based on Weighted Least Squares filter (in form of Fast Global Smoother that is a lot faster than traditional Weighted Least Squares filter implementations) and optional use of left-right-consistency-based confidence to refine the results in half-occlusions and uniform areas."
+
+
+2. explain why use SGBM?
+
+
+3. explain used method for 3d reconstruction from point clouds
+-automatically computes this : https://i.stack.imgur.com/CAm76.png
+
+do it specifically for sea bed!!!
+
+adjust focal length/lambda/sigma
+
+
+decide on a topic
+
+
+MY TOPIC: 3D Reconstruction of Seabed using Stereo Vision
+Proposed method: foreground extraction using grabcut -> sgbm -> wls filtering -> linear triangulation
+
+
+ Title,
+ Intro (describe research problem),
+ RRL (at most 2 slides),
+ Methodology,
+ Experiments,
+ Results and Discussion,
+ Future Work (for 2nd sem with timeline),
+ Conclusion

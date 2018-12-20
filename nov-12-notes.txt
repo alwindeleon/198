@@ -1,0 +1,6 @@
+
+-remove background on image. dont add to calculate.
+-ask on 
+-merging 2 point clouds
+-3d reconstruction from a moving camera
+-

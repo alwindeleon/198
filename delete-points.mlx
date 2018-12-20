@@ -1,0 +1,14 @@
+<!DOCTYPE FilterScript>
+<FilterScript>
+ <filter name="Transform: Scale, Normalize">
+  <Param tooltip="Scaling" value="4" name="axisX" type="RichFloat" description="X Axis"/>
+  <Param tooltip="Scaling" value="4" name="axisY" type="RichFloat" description="Y Axis"/>
+  <Param tooltip="Scaling" value="4" name="axisZ" type="RichFloat" description="Z Axis"/>
+  <Param tooltip="If selected an uniform scaling (the same for all the three axis) is applied (the X axis value is used)" value="true" name="uniformFlag" type="RichBool" description="Uniform Scaling"/>
+  <Param tooltip="Choose a method" value="0" name="scaleCenter" enum_val0="origin" enum_val1="barycenter" enum_val2="custom point" enum_cardinality="3" type="RichEnum" description="Center of scaling:"/>
+  <Param tooltip="This scaling center is used only if the 'custom point' option is chosen." name="customCenter" x="0" y="0" z="0" type="RichPoint3f" description="Custom center"/>
+  <Param tooltip="If selected, the object is scaled to a box whose sides are at most 1 unit lenght" value="false" name="unitFlag" type="RichBool" description="Scale to Unit bbox"/>
+  <Param tooltip="The transformation is explicitly applied, and the vertex coordinates are actually changed" value="true" name="Freeze" type="RichBool" description="Freeze Matrix"/>
+  <Param tooltip="If selected the filter will be applied to all visible mesh layers" value="false" name="allLayers" type="RichBool" description="Apply to all visible Layers"/>
+ </filter>
+</FilterScript>

@@ -1,0 +1,18 @@
+remove background - tricky
+manual binary mask
+-- subtract background
+combine next frame
+
+interpolation just for a pair
+
+tweek the algo to improve the result
+
+then work on interframe reconstruction
+
+
+objective of first semester. -- 3d video?? show 
+
+
+
+frames
+-J854_frame_FD14_019182 to J854_frame_FD14_018588

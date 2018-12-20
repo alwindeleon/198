@@ -1,0 +1,33 @@
+continuity/filter
+-examine point by point
+
+bundle adjustment
+-meron sa opencv
+
+
+-related to bundle adjustment multi frame add to recommendations
+
+send sample results to sir.
+
+-remind sir about images with diver.
+
+process of rectification removes distortion
+
+-recon from moving camerera
+-remind sir to give video of a single camera moving
+	-24 frames per 
+
+
+-3d recon of benthic surface using stereo vision
+
+abstract- avoid putting values in.
+		-
+
+summary -
+
+
+take care of references
+
+error analysis
+-look at other papers
+-ask maam rae to measure something, compare to meshlab

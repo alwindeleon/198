@@ -1,0 +1,29 @@
+Heiko Hirschmuller. Stereo processing by semiglobal matching and mutual information. Pattern Analysis and Machine Intelligence, IEEE Transactions on, 30(2):328–341, 2008.
+
+
+
+for 3d recon of underwater scenes: Simultaneous 3D Reconstruction for Water
+Surface and Underwater Scene
+
+
+
+SGM has been used here: http://www.ncuteecs.org/volume/paperfile/3-4/IJ3C_5.pdf
+underwater scenes
+-
+SGM is really good!
+
+
+
+
+reefs damaged:  Wilkinson, Clive (2008) Status of Coral Reefs of the World: Executive Summary. Global Coral Reef Monitoring Network.
+
+
+ball pivoting
+
+Title, Intro (describe research problem), RRL (at most 2 slides), Methodology, Experiments, Results and Discussion, Future Work (for 2nd sem with timeline), Conclusion
+
+
+tingga -bottom 7.6cm 8cm,
+	   -top 7cm 7cm
+	   - height 2cm
+
